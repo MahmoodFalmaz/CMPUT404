@@ -13,6 +13,7 @@ virtualenv
     
     Question 4: What is the difference between the virtual environment and the not virtual environment python?
         The differnece is that the virtual enivorment isolate the Python interpreter, libraries and scripts from those installed in other virtual environments. 
+        While the non virtual environment python, will install the packages with the Python interpreter. 
 
 curl
 
@@ -33,7 +34,7 @@ curl
         This method is useful for allowing the POST request to send data. 
 
     Question 8: What is the raw URL to your Python script on GitHub?
-        https://raw.githubusercontent.com/MahmoodFalmaz/CMPUT404/main/Labs/Lab-1/script.py?token=AND4OLS75OMZ4MRM6R4V3A3BHOUJA
+        https://raw.githubusercontent.com/MahmoodFalmaz/CMPUT404/main/Labs/Lab-1/script.py?token=AND4OLUWTIE425APGX4OBLLBHPAE4
 
 
 
