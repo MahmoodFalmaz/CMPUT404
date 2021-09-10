@@ -27,6 +27,10 @@ curl
         The status code is returned by both curl -i and curl -iL. The status code that is returned for http://www.google.com/teapot is 418.
 
     Question 7: What changed in the output of https://webdocs.cs.ualberta.ca/~hindle1/1.py when you used -X POST? What is this method useful for?
+        The REMOTE_PORT Number has changed from 61509 to 61538
+        The REMOTE_METHOD has also changed from GET to POST
+        Also, several new form field instances have been added, as well as others that have been modified. 
+        This method is useful for allowing the POST request to send data. 
 
     Question 8: What is the raw URL to your Python script on GitHub?
         https://raw.githubusercontent.com/MahmoodFalmaz/CMPUT404/main/Labs/Lab-1/script.py?token=AND4OLS75OMZ4MRM6R4V3A3BHOUJA
