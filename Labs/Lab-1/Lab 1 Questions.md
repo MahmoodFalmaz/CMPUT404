@@ -29,4 +29,4 @@ curl
     Question 7: What changed in the output of https://webdocs.cs.ualberta.ca/~hindle1/1.py when you used -X POST? What is this method useful for?
 
     Question 8: What is the raw URL to your Python script on GitHub?
-    
+        https://raw.githubusercontent.com/MahmoodFalmaz/CMPUT404/main/Labs/Lab-1/script.py?token=AND4OLWC2LYHSJRLTY76ETDBHNDPE
