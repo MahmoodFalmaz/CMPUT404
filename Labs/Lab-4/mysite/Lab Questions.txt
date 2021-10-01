@@ -25,5 +25,9 @@ Question 6: What do you see when you go to /polls/38/ in your browser? What abou
     When we don’t put a number, and instead use a string we get the following error: "404 Page Not Found Error."
     A solution will be to change the question_id type from an integer to a string.
 
+Question 7: Why is it a bad idea to hardcode urls into the templates?
+    Hard-coding URLs makes it more difficult to change URLs and makes it simpler to link to the wrong page.
+    Also, it will require us to manually update and change things 
+
 
 
