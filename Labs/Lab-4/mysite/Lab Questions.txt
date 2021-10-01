@@ -7,3 +7,9 @@ Question 2: After starting a brand new Django application and running the runser
 Question 3: After creating the first view within polls, what does the browser show you when navigating to / and to /polls respectively?
     The browser redirect to the following website: http://127.0.0.1:8000/polls with the following text displayed: "Hello, world. You're at the polls index."
 
+Question 4: What is a Django migration and why do we need them?
+    Django's migrations are a means for you to propagate changes to your models (adding a field, removing a model, etc.) to your database schema.
+    Database migration is critical since it aids in cost savings. Database migration has the advantage of 
+    transferring data from an obsolete legacy system to more current software. 
+    Moreover, Database migration unifies diverse data so that it may be accessed by many systems.
+
