@@ -13,3 +13,7 @@ Question 4: What is a Django migration and why do we need them?
     transferring data from an obsolete legacy system to more current software. 
     Moreover, Database migration unifies diverse data so that it may be accessed by many systems.
 
+Question 5: What do you see after you log into the Django adminstration site? From a high levle, how do you get custom models to appear in the Django admin page?
+    After we log into the Django adminstration site, as an admin you are able to change and modify the AUTHENTICATION AND AUTHORIZATION sections.
+    As a result of the models class that we built in models.py, the custom models display in the Django admin page.
+
