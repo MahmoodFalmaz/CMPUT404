@@ -1,6 +1,0 @@
-Question 1: What is the link to your github repository for this lab?
-    https://github.com/MahmoodFalmaz/CMPUT404/tree/main/Labs/Lab-4
-
-Question 2: After starting a brand new Django application and running the runserver command, what does the browser show you?
-    It started to develop the server at http://127.0.0.1:8000/
-
